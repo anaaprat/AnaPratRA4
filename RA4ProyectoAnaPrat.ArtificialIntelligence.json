@@ -1,0 +1,200 @@
+[{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f69"
+  },
+  "code": 1,
+  "name": "ELIZA",
+  "type": "Procesamiento de lenguaje natural",
+  "yearAp": 1966,
+  "image": "images/1_eliza.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f6a"
+  },
+  "code": 2,
+  "name": "Deep Blue",
+  "type": "Juego de ajedrez",
+  "yearAp": 1997,
+  "image": "images/2_DeepBlue.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f6b"
+  },
+  "code": 3,
+  "name": "Siri",
+  "type": "Asistente virtual",
+  "yearAp": 2011,
+  "image": "images/3_siri.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f6c"
+  },
+  "code": 4,
+  "name": "Watson",
+  "type": "Procesamiento de lenguaje natural",
+  "yearAp": 2011,
+  "image": "images/4_watson.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f6d"
+  },
+  "code": 5,
+  "name": "AlphaGo",
+  "type": "Juego de mesa (Go)",
+  "yearAp": 2016,
+  "image": "images/5_AlphaGo.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f6e"
+  },
+  "code": 6,
+  "name": "Google Assistant",
+  "type": "Asistente virtual",
+  "yearAp": 2016,
+  "image": "images/6_GoogleAssistant.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f6f"
+  },
+  "code": 7,
+  "name": "GPT-3",
+  "type": "Procesamiento de lenguaje natural",
+  "yearAp": 2020,
+  "image": "images/7_gpt-3.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f70"
+  },
+  "code": 8,
+  "name": "DALL-E",
+  "type": "Generación de imágenes",
+  "yearAp": 2021,
+  "image": "images/8_Dalle-e.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f71"
+  },
+  "code": 9,
+  "name": "ChatGPT",
+  "type": "Conversación automática",
+  "yearAp": 2022,
+  "image": "images/9_Chatgpt.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f72"
+  },
+  "code": 10,
+  "name": "Midjourney",
+  "type": "Generación de imágenes",
+  "yearAp": 2022,
+  "image": "images/10_midjourney.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f73"
+  },
+  "code": 11,
+  "name": "Codex",
+  "type": "Programación",
+  "yearAp": 2021,
+  "image": "images/11_codex.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f74"
+  },
+  "code": 12,
+  "name": "Stable Diffusion",
+  "type": "Generación de imágenes",
+  "yearAp": 2022,
+  "image": "images/12_StableDiffusion.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f75"
+  },
+  "code": 13,
+  "name": "Replika",
+  "type": "Chatbot emocional",
+  "yearAp": 2017,
+  "image": "images/13_Replika.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f76"
+  },
+  "code": 14,
+  "name": "BERT",
+  "type": "Procesamiento de lenguaje natural",
+  "yearAp": 2018,
+  "image": "images/14_Bert.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f77"
+  },
+  "code": 15,
+  "name": "OpenAI Five",
+  "type": "Juego de video (Dota 2)",
+  "yearAp": 2018,
+  "image": "images/15_OpenAIFive.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f78"
+  },
+  "code": 16,
+  "name": "Clara",
+  "type": "Asistente de salud",
+  "yearAp": 2015,
+  "image": "images/16_Clara.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f79"
+  },
+  "code": 17,
+  "name": "H2O.ai",
+  "type": "Análisis de datos",
+  "yearAp": 2012,
+  "image": "images/17_H2O.ai.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f7a"
+  },
+  "code": 18,
+  "name": "AIVA",
+  "type": "Composición musical",
+  "yearAp": 2016,
+  "image": "images/18_aiva.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f7b"
+  },
+  "code": 19,
+  "name": "Kuki",
+  "type": "Chatbot conversacional",
+  "yearAp": 2017,
+  "image": "images/19_kuki.png"
+},
+{
+  "_id": {
+    "$oid": "66fac5926476980c3ed98f7c"
+  },
+  "code": 20,
+  "name": "Amelia",
+  "type": "Asistente virtual",
+  "yearAp": 2016,
+  "image": "images/20_Amelia.png"
+}]
